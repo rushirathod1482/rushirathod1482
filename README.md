@@ -1,51 +1,63 @@
-# 👨‍💻 Python Developer | Full Stack Enthusiast
-
-Hi, I'm a passionate **Python Developer** with experience in building scalable web applications and dynamic front-end interfaces. I previously worked at **Tata Consultancy Services (TCS)**, where I honed my skills in software development and team collaboration.
-
----
-
-## 💼 Looking for Opportunities
-
-I'm actively seeking **new job opportunities** where I can contribute, grow, and work on challenging real-world problems. I'm open to both backend and full-stack roles.
+<!-- Animated waving hand -->
+<h2 align="left">Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> a Python Developer!</h2>
 
 ---
 
-## 🛠️ Skills & Technologies
+### 👨‍💻 About Me
 
-### 🔹 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔹 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🧑‍💼 Previously worked at **Tata Consultancy Services (TCS)**
+- 💻 I’m actively building my skills in **Python** and love solving real-world problems
+- 🔍 Currently **looking for a Python/Full Stack Developer job**
+- 🌱 Consistently working on improving my coding abilities and exploring new technologies
 
 ---
 
-## 📂 Projects
+### 🚀 Skills & Technologies
 
-Here are some of the projects I’ve worked on:
-
-- 🔹 **MyBlogs** – Built with Python, Djangp, and SQLite
-- 🔹 **Online Taxi Booking System** – Designed with Python, Django, and SQLite
-
-*More projects are available in my repositories.*
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: rathodrushi1482@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rushi-rathod](https://linkedin.com/in/rushi-rathod)  
-- 💻 GitHub: [github.com/rushirathod1482](https://github.com/rushirathod1482)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 🧠 Fun with Code (GIF)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
-⭐ **Currently open to Python Developer / Full Stack Developer roles**
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://leetcode.com/_rushi_rathod/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/_rushi_rathod/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/rathodrushi1482" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: rathodrushi1482@gmail.com
+- 🧳 LinkedIn: [linkedin.com/in/rushi-rathod](https://linkedin.com/in/rushi-rathod)
+- 💻 GitHub: [github.com/rathodrushi1482](https://github.com/rathodrushi1482)
+
+---
+
+> 💡 "The only way to do great work is to love what you do." – Steve Jobs
+
+---
+
+### ⭐ Currently open to Python / Full Stack Developer roles

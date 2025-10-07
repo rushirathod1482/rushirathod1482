@@ -1,5 +1,5 @@
 <!-- Animated waving hand -->
-<h2 align="left">Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> a Sofware Developer!</h2>
+<h2 align="left">Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> a Software Developer!</h2>
 
 ---
 
